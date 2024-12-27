@@ -1,0 +1,2 @@
+name "Toggle Ember Tear"
+about `This plugin gives the Ember Tear an icon (in particular, the dragonflame icon) so that it can be toggled like a secondary weapon.`
