@@ -1,0 +1,3 @@
+outfit "Ember Tear"
+	weapon
+		icon "icon/dragonflame"
